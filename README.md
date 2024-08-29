@@ -1,4 +1,4 @@
-# BrainStation Data Science Capstone Template
+# Netflix Prize Dataset Analysis
 
 ------------------------------------------------------------------------------
 
